@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "73cf",
+      "fullName": "Adsa As Mcc",
+      "email": "asd@csc.com",
+      "password": "1234"
+    },
+    {
+      "id": "554c",
+      "fullName": "bb",
+      "email": "bb@gmail.com",
+      "password": "bb"
+    },
+    {
+      "id": "1bcb",
+      "fullName": "Sherzod",
+      "email": "sherzod@gmail.com",
+      "password": "sherzod"
+    }
+  ]
+}
